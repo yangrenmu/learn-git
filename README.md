@@ -1,2 +1,5 @@
 # leran-git
-learn use git
+learn use gid 
+first modify
+
+
