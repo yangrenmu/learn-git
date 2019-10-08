@@ -2,6 +2,10 @@ hello hot
 masterhot
 sdf
 xinde
+<<<<<<< HEAD
 1
 2
 3
+=======
+reset
+>>>>>>> 91779109329ac1c44ff4daa99aec9602ae73fb82
